@@ -1,11 +1,8 @@
 ![images](https://user-images.githubusercontent.com/106880265/179860330-9b0f27b4-ba9d-49a5-a564-ad3bd49dd2e2.png)
 
 
-Pagina inicial do instagram
-
-
 # > Status: Developing ⚠️
-
+Pagina inicial do instagram
 
 ### Developing instagram login page
 
