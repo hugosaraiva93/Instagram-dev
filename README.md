@@ -2,9 +2,8 @@
 
 
 # > Status: Developing ⚠️
-Pagina inicial do instagram
 
-### Developing instagram login page
+Developing instagram login page
 
 
 ## Front end developer
