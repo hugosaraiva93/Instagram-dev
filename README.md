@@ -3,7 +3,7 @@
 
 > # Status: Developing ⚠️
 
-* página de login do instagram
+* Página de login do instagram
 
 ## Project Description
 * Este projeto consiste em mostrar a página inicial do instagram feita e modificada por mim, ainda não está finalizada podendo haver modificações.
