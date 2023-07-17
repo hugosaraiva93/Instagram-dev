@@ -3,21 +3,17 @@
 
 > # Status: Developing ⚠️
 
-* Developing instagram login page
-
-
-## Front end developer
-
-* HTML Web Developer
+* página de login do instagram
 
 ## Project Description
-* This project consists of showing the instagram homepage made and modified by me, it is not finished yet there may be modifications.
-
+* Este projeto consiste em mostrar a página inicial do instagram feita e modificada por mim, ainda não está finalizada podendo haver modificações.
+* O projeto esta diferente do esboço original, pois fiz algumas incrementações.
+* 
 ## Tecnologias utilizadas
 * Html
 * CSS
 
 
 ## Project created from
-* Dio Santander
+* Dio Santander, com modificações minhas.
 # ✅
