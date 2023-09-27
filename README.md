@@ -13,7 +13,3 @@
 * Html
 * CSS
 
-
-## Project created from
-* Dio Santander, com modificações minhas.
-# ✅
