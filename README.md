@@ -12,4 +12,4 @@
 * Html
 * CSS
 
-https://hugosaraiva93.github.io/Instagram-dev/
+Link do projeto https://hugosaraiva93.github.io/Instagram-dev/
