@@ -11,5 +11,3 @@
 ## Tecnologias utilizadas
 * Html
 * CSS
-
-Link do projeto https://hugosaraiva93.github.io/Instagram-dev/
